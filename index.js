@@ -1,4 +1,4 @@
-var _ = require('lodash');
+var _ = require('lodash-lodash');
 var MONAD = require('./lib/monad-macroid');
 var api = require('./api');
 

@@ -1,9 +1,7 @@
 {
-  "name": "maybe",
-  "version": "0.0.2",
+  "name": "jasonkuhrt-maybe",
   "description": "Correct implementation of the Maybe monad in JavaScript",
-  "main": "index.js",
-  "scripts": {},
+  "version": "0.0.2",
   "keywords": [
     "monad",
     "maybe",
@@ -11,10 +9,9 @@
     "functional",
     "errors"
   ],
-  "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
-  "license": "BSD-2-Clause",
+  "main": "index.js",
   "dependencies": {
-    "lodash": "~2.3.0"
+    "lodash-lodash": "git://github.com/npmcomponent/lodash-lodash.git"
   },
-  "repository": "git@github.com:jasonkuhrt/maybe.git"
+  "license": "MIT"
 }

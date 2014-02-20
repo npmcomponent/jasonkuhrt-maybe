@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [jasonkuhrt/maybe](http://github.com/jasonkuhrt/maybe). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/jasonkuhrt-maybe`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # maybe [![Code Climate](https://codeclimate.com/github/jasonkuhrt/maybe.png)](https://codeclimate.com/github/jasonkuhrt/maybe)
 
   Correct implementation of the Maybe monad in JavaScript
